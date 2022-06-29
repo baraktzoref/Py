@@ -1,0 +1,11 @@
+if statement:
+    print
+elif statement:
+    print
+else:
+    print
+
+f=file.open("path",'w')
+f.write()
+f.flush()
+f.close()
